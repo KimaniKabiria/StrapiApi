@@ -1,0 +1,19 @@
+{
+    "name": "unbxd/strapi-api",
+    "description": "Larave-Strapi API. A Package to connect your Laravel app to Strapi API.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kabiria Kimani",
+            "email": "kabiriakimani@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Unbxd\\StrapiApi\\": "src/"
+        }
+    },
+    "require": {}
+}
