@@ -1,6 +1,6 @@
 <?php
 
-namespace Unbxd\StrapiApi\Exceptions;
+namespace Kimmidevs\StrapiApi\Exceptions;
 
 use RuntimeException;
 

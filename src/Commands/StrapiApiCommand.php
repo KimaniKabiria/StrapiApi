@@ -1,6 +1,6 @@
 <?php
 
-namespace Unbxd\StrapiApi\Commands;
+namespace Kimmidevs\StrapiApi\Commands;
 
 use Illuminate\Console\Command;
 

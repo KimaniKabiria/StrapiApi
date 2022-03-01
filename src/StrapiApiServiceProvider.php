@@ -1,9 +1,9 @@
 <?php
 
-namespace Unbxd\StrapiApi;
+namespace Kimmidevs\StrapiApi;
 
 
-use Unbxd\StrapiApi\Commands\LaravelStrapiCommand;
+use Kimmidevs\StrapiApi\Commands\LaravelStrapiCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 use Illuminate\Support\ServiceProvider;

@@ -1,11 +1,11 @@
 <?php
 
-namespace Unbxd\StrapiApi;
+namespace Kimmidevs\StrapiApi;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Unbxd\StrapiApi\LaravelStrapi
+ * @see \Kimmidevs\StrapiApi\LaravelStrapi
  */
 class StrapiApiFacade extends Facade
 {

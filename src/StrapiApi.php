@@ -1,10 +1,10 @@
 <?php
 
-namespace Unbxd\StrapiApi;
+namespace Kimmidevs\StrapiApi;
 
-use Unbxd\StrapiApi\Exceptions\NotFound;
-use Unbxd\StrapiApi\Exceptions\PermissionDenied;
-use Unbxd\StrapiApi\Exceptions\UnknownError;
+use Kimmidevs\StrapiApi\Exceptions\NotFound;
+use Kimmidevs\StrapiApi\Exceptions\PermissionDenied;
+use Kimmidevs\StrapiApi\Exceptions\UnknownError;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Http;
 
